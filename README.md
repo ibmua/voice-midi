@@ -2,7 +2,7 @@
 
 Vibecoded and basic. Convert voice recordings and audio files into MIDI melody files. Sing or hum into your microphone (or upload a file) and get a playable MIDI file out.
 
-<img width="2197" height="1449" alt="image" src="https://github.com/user-attachments/assets/9bb430e0-6487-4d79-8396-25b53383deb6" />
+<img width="2197" height="1449" alt="image" src="https://github.com/user-attachments/assets/371936f2-91dd-498d-ab2b-68b373fe5ae1" />
 
 ## Features
 
