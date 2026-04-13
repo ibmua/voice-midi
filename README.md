@@ -1,6 +1,6 @@
 # Voice to MIDI
 
-Convert voice recordings and audio files into MIDI melody files. Sing or hum into your microphone (or upload a file) and get a playable MIDI file out.
+Vibecoded and basic. Convert voice recordings and audio files into MIDI melody files. Sing or hum into your microphone (or upload a file) and get a playable MIDI file out.
 
 ## Features
 
